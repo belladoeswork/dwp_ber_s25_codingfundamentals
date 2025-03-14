@@ -1,8 +1,5 @@
 # Lesson 2 
 
-<<<<<<< HEAD
-// coming up 
-=======
 
 ###############################################################
 #                                                             #
@@ -76,4 +73,3 @@ Print all three variables.
 # Print the original temperature in Celsius and the converted temperature in Fahrenheit.
 
 '''
->>>>>>> upstream/main
